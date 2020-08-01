@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<KVStore>
+	<KVPair>
+		<Key>a</Key>
+		<Value>b</Value>
+	</KVPair>
+	<KVPair>
+		<Key>sd</Key>
+		<Value>s</Value>
+	</KVPair>
+	<KVPair>
+		<Key>dfd</Key>
+		<Value>fd</Value>
+	</KVPair>
+</KVStore>
